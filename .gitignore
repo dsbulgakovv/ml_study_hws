@@ -163,3 +163,8 @@ cython_debug/
 
 HW2/data/
 *.DS_Store
+
+# selfmade
+*.csv
+/HW4/examples
+/HW4/catboost_info
